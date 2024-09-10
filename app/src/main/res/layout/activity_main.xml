@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:background="?android:selectableItemBackground"
         android:src="@drawable/baseline_arrow_back_24"
-        android:contentDescription="Back"
+        android:contentDescription="Kembali"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         android:layout_marginTop="40dp"
